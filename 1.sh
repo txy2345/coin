@@ -1,0 +1,9 @@
+find ./ -type f -readable -writable -exec sed -i "s/elikeme/elikeme/g" {} \;
+find ./ -type f -readable -writable -exec sed -i "s/ElikemeCoin/ElikemeCoin/g" {} \;
+find ./ -type f -readable -writable -exec sed -i "s/ELM/ELM/g" {} \;
+find ./ -type f -readable -writable -exec sed -i "s/elikeme/elikeme/g" {} \;
+find ./ -type f -readable -writable -exec sed -i "s/elikemed/elikemecoind/g" {} \;
+find ./ -type f -readable -writable -exec sed -i "s/19443/19443/g" {} \;
+find ./ -type f -readable -writable -exec sed -i "s/19444/19444/g" {} \;
+find ./ -type f -readable -writable -exec sed -i "s/119443/29443/g" {} \;
+find ./ -type f -readable -writable -exec sed -i "s/119444/29444/g" {} \;

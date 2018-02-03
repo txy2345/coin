@@ -1,0 +1,9 @@
+Building elikeme
+
+See doc/readme-qt.rst for instructions on building elikeme-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of elikeme.
+
+See doc/build-*.txt for instructions on building elikemed,
+the intended-for-services, no-graphical-interface, reference
+implementation of elikeme.
